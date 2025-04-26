@@ -3,4 +3,5 @@
 input
 output
 logs
+*.log
 config.yaml
